@@ -14,6 +14,6 @@ object.py is the ocr testing stuff
 reducer.py is the actual reducer / recoil cheat
 
 # Usage
-THIS IS FOR EDUCATIONAL PURPOSES. br /
-DO NOT USE THIS IN PUBLIC MATCHES. br /
-THIS IS FOR LEARNING OCR AND RECOIL METHODS. br /
+THIS IS FOR EDUCATIONAL PURPOSES. <br />
+DO NOT USE THIS IN PUBLIC MATCHES. <br />
+THIS IS FOR LEARNING OCR AND RECOIL METHODS. <br />
