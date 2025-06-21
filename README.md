@@ -9,9 +9,9 @@ I build stuff with pyinstaller so you can to.
 pyinstaller ocr.py --onefile --noconsole
 ```
 # Sources
-ocr.py is the full script 
-object.py is the ocr testing stuff
-reducer.py is the actual reducer / recoil cheat
+ocr.py is the full script <br />
+object.py is the ocr testing stuff <br />
+reducer.py is the actual reducer / recoil cheat <br />
 
 # Usage
 THIS IS FOR EDUCATIONAL PURPOSES. <br />
